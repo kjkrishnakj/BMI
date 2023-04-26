@@ -1,0 +1,87 @@
+body{
+    background-image: url("blob-haikei\ \(1\).svg   ");
+}
+h1{
+  position: absolute;
+  top: 2%;
+  color: #001220;
+  font-size: 100px;  
+}
+#i1{
+    position: absolute;
+    top: 50%;
+    right: 40%;
+    background-color: #FBAE3C;
+    color: #001220 ;
+    border: none;
+    width: 200px;
+    height: 20px;
+    box-shadow: #ee9510 0px 5px 230px;
+}
+
+#i2{
+    position: absolute;
+    top: 56%;
+    right: 40%;
+    box-shadow: #ee9510 0px 5px 230px;
+    background-color: #FBAE3C;
+    color: #001220 ;
+    border: none;
+    width: 200px;
+    height: 20px;
+}
+#b1{
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    top: 64%;
+    color: #001220;
+    right: 43%;
+    background-color: #FBAE3C;
+    margin-left: 150px;
+    margin-right: 10px;
+    box-shadow: #ee9510 0px 5px 230px;
+    
+    
+
+}
+#b2{
+    color: #FBAE3C;
+    position: absolute;
+    top: 5%;
+    text-shadow: #ee9510 0px 2px 20px;
+    right: 37%;
+    font-size: 30px;
+}
+#a2{
+    color: wheat;
+    position: absolute;
+    top: 5%;
+    text-align: right;
+    text-shadow: #ee9510 0px 2px 20px;
+    right: 40%;
+    
+}
+.clicked{
+    color: black;
+    background-color: red;
+}
+h3{
+    
+    color: #FBAE3C;
+    
+    position: absolute;
+    text-shadow: #ee9510 0px 2px 30px;
+    top: 38%;
+    right: 7%;
+    font-size: 25px;
+}
+P{
+    color: #FBAE3C;
+    text-align: right;
+    position: absolute;
+    text-shadow: #ee9510 0px 2px 30px;
+    top: 45%;
+    right: 0%;
+    font-size: 20px;
+}
